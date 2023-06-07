@@ -17,8 +17,9 @@ The blog application's README file typically includes information about various 
    4 Posting Time and Author Name: Each blog post typically includes information about the posting time and the name of the author. 
     This allows readers to see when the post was published and helps to establish the credibility and authority of the content.
 
-    5Profile Page Editing: Users can customize their profile page to reflect their personal brand or identity.
-    They can update their profile picture, provide a brief bio, and include links to their social media profiles or personal websites.
+   5 Profile Page Editing: Users can customize their profile page to reflect their personal brand or identity.
+     They can update their profile picture, provide a brief bio, and include links to their social media profiles 
+     or personal websites.
 
 These are just a few of the key features that you might find in a blog application. Depending on the specific application, there could be
 additional functionalities such as commenting, social sharing, integration with external services, and more.
