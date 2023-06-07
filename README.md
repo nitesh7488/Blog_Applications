@@ -13,9 +13,14 @@ The blog application's README file typically includes information about various 
    2 Writing and Editing: Registered users can create new blog posts by writing content and formatting it using a user-friendly editor. 
     The application may provide options for adding images, videos, and other media to enhance the blog posts. Additionally, users can
     edit their existing posts to make updates or corrections.
+    ![wr1](https://github.com/nitesh7488/Blog_Applications/assets/120910923/00802f6e-ca89-426c-bb66-a4b43f291394)
     
-    ![wr1](https://github.com/nitesh7488/Blog_Applications/assets/120910923/6ba3961d-5f73-4770-87a8-5c6a2b771b98)
-    ![post time auth ed](https://github.com/nitesh7488/Blog_Applications/assets/120910923/d69f2088-30c7-4987-a65f-77012141c7d7)
+    
+     ![post time auth ed](https://github.com/nitesh7488/Blog_Applications/assets/120910923/0802d88c-2047-4a59-aae6-3fb270d1cf2b)
+
+
+
+   
 
 
    
