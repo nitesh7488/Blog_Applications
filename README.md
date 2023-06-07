@@ -16,16 +16,15 @@ The blog application's README file typically includes information about various 
     ![wr1](https://github.com/nitesh7488/Blog_Applications/assets/120910923/00802f6e-ca89-426c-bb66-a4b43f291394)
     
     
-     ![post time auth ed](https://github.com/nitesh7488/Blog_Applications/assets/120910923/0802d88c-2047-4a59-aae6-3fb270d1cf2b)
-
-
-
-   
+      
 
 
    
    3 Post Management: The blog application provides a user interface for managing blog posts. Users can view, sort, and search their posts,
     making it easy to navigate through their content. They can also organize posts into categories or tags for better organization and discoverability.
+    
+   
+
    
    4 Posting Time and Author Name: Each blog post typically includes information about the posting time and the name of the author. 
     This allows readers to see when the post was published and helps to establish the credibility and authority of the content.
