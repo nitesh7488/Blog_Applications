@@ -7,8 +7,7 @@ The blog application's README file typically includes information about various 
     This feature allows users to securely log in to the application, ensuring that their personal information 
     and blog posts are protected.
     ![au1](https://github.com/nitesh7488/Blog_Applications/assets/120910923/7be44890-67fa-43a6-bf05-da809cd458b8)
-    
-    ![au2](https://github.com/nitesh7488/Blog_Applications/assets/120910923/ccfc380e-51ee-4c0c-87d4-bc216d3e4792)
+    ![au2](https://github.com/nitesh7488/Blog_Applications/assets/120910923/646e8a5e-6b21-40a7-832f-8a5c22152f0d)
 
 
    2 Writing and Editing: Registered users can create new blog posts by writing content and formatting it using a user-friendly editor. 
