@@ -29,12 +29,21 @@ The blog application's README file typically includes information about various 
    
 ![post](https://github.com/nitesh7488/Blog_Applications/assets/120910923/e80a6311-16d8-4b83-82f3-f8b6a3da34f5)
 
+
+![public](https://github.com/nitesh7488/Blog_Applications/assets/120910923/e7c9bdad-2358-4f57-92b6-a1af37d8c749)
+
+
    
    4 Posting Time and Author Name: Each blog post typically includes information about the posting time and the name of the author. 
     This allows readers to see when the post was published and helps to establish the credibility and authority of the content.
+    
+ ![post time auth](https://github.com/nitesh7488/Blog_Applications/assets/120910923/b4025851-6830-495c-a64a-0e650624c57a)
+
+
 
    5 Profile Page Editing: Users can customize their profile page to reflect their personal brand or identity.
-     They can update their profile picture, provide a brief bio, and include links to their social media profiles 
-     or personal websites.
+     They can update their profile pictur,Name, email and passward.
+     ![ud p](https://github.com/nitesh7488/Blog_Applications/assets/120910923/f87bd37d-f52a-48aa-b7fd-e4667ed7ee4f)
+
 These are just a few of the key features that you might find in a blog application. Depending on the specific application, there could be
 additional functionalities such as commenting, social sharing, integration with external services, and more.
