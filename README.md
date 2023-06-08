@@ -17,7 +17,9 @@ The blog application's README file typically includes information about various 
     
     
     
-    ![post time auth ed](https://github.com/nitesh7488/Blog_Applications/assets/120910923/c8226818-4159-4e08-b3c3-d241a1b265a2)
+    ![ed](https://github.com/nitesh7488/Blog_Applications/assets/120910923/d7dd3d8a-446e-495e-ba16-bb62512be176)
+
+
 
     
 
